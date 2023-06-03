@@ -1,7 +1,6 @@
 # Tic-Tac-Toe 🌞
 
-Go ahead and play the game if you love TV shows (well, who doesn't anyway?), that will show you how well you know the industry.
-I tried to do a mix up of the most well-know TV shows for the last 20 years or so, but there still might be some you do not not, because of the prejudices view and a want to put my favourites in here.
+Tic-tac-toe is a game played on a 3x3 grid with two players, who alternately place marks X and O in one of the nine spaces, until one of the wins or game results in a tie.
 
 [Play Tic-Tac-Toe 🎲](https://grinushka.github.io/tic-tac-toe/)
 
