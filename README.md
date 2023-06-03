@@ -3,7 +3,7 @@
 Go ahead and play the game if you love TV shows (well, who doesn't anyway?), that will show you how well you know the industry.
 I tried to do a mix up of the most well-know TV shows for the last 20 years or so, but there still might be some you do not not, because of the prejudices view and a want to put my favourites in here.
 
-[Tic-Tac-Toe 🎲](https://grinushka.github.io/tic-tac-toe/)
+[Play Tic-Tac-Toe 🎲](https://grinushka.github.io/tic-tac-toe/)
 
 Hope you enjoy it!
 
