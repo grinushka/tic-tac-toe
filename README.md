@@ -29,7 +29,7 @@ Hope you enjoy it!
 
 ## Acknowledgments
 
-- Just as usual, the best CSS content from from Kevin Powell. This time it is the amazing tutorial on [Patterns with CSS Gradients](https://www.youtube.com/watch?v=mXrBC_mZfTw).
+- Just as usual, the best CSS content from from Kevin Powell. This time it is an amazing tutorial on [Patterns with CSS Gradients](https://www.youtube.com/watch?v=mXrBC_mZfTw).
 - [Free learning platform for future Frontend Gurus](https://www.theodinproject.com/)
 
 ## Badges
